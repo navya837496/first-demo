@@ -1,0 +1,61 @@
+March:--
+Moguluru@9010
+
+SCTASK1800843    JDK Upgrade
+CHG0138573       datadog
+CHG0138269      JDK Upgrade
+CHG0138890        cve update
+CHG0138910          datadog
+CHG0138893         cis policies
+SCTASK1813353     datadog
+SCTASK1813349       datadog
+CHG0139110    sap nprod datadog
+CHG0139247   nsap prod datadog
+CHG0139263   CIS policies
+REQ1828718   datadog
+SCTASK1820875  datadog
+
+April:---
+SCTASK1829859 datadog 
+SCTASK1832668 action script
+CHG0139887  .net runtime
+
+May:---
+
+----------------------------------------
+looping cloud ops in mails
+mznatwapp6d02 mznaqwapewq01 to test malicious removal tool task
+
+--------------------------------------------
+
+
+
+
+
+
+
+
+
+
+kubernetes,cicd,git,
+Azure,Terraform,Linux,Powershell,docker,arm,yaml,
+saree draping
+hairstyle
+mehandi
+drawing
+hindi
+songs
+
+
+Firewall Management NIC,
+MIGRATING APP FROM ON PREM TO PAAS
+
+
+memory,cpu,disk related incidents solutions
+HANDS ON
+
+
+
+10:20
+give me the python example for kubernetes with minikube from sxratch in local machine
+
